@@ -1,0 +1,3 @@
+/Users/admin/Desktop/prog/Лабы/rgr2.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/admin/Desktop/prog/Лабы/rgr2.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Desktop/prog/Лабы/rgr2.2/cmake-build-debug/CMakeFiles/rgr2_2.dir
